@@ -37,7 +37,7 @@ $ make cert
 $ make dev
 ```
 
-To run the tests, run `make test`.
+To run the tests, run `make test`. <br/>
 For more info, run `go run .\cmd\web -help`
 
 ## Things I Learned
