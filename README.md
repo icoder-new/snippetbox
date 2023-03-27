@@ -38,6 +38,7 @@ $ make dev
 ```
 
 To run the tests, run `make test`.
+For more info, run `go run .\cmd\web -help`
 
 ## Things I Learned
 
