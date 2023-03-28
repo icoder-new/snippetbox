@@ -24,7 +24,7 @@ func humanDate(t time.Time) string {
 		return ""
 	}
 
-	return t.UTC().Format("28 Mar 2004 at 14:05")
+	return t.UTC().Format("02 Jan 2006 at 15:04")
 }
 
 var functions = template.FuncMap{
